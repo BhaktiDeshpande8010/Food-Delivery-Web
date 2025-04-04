@@ -14,7 +14,7 @@ const razorpay = new Razorpay({
 
 // Placing user orders from frontend
 const placeOrder = async (req, res) => {
-    const frontend_url = "http://localhost:5173";
+    const frontend_url = "https://cuisine-del.onrender.com/";
 
     try {
         const newOrder = new orderModel({
