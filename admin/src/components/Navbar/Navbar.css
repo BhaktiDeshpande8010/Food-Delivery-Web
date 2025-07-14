@@ -10,7 +10,7 @@
     font-weight: bold;
     font-family: Montserrat;
     color: tomato; /* Set text color to tomato */
-    text-decoration: underline; /* Remove underline */
+/*     text-decoration: underline; /* Remove underline */ */
 }
 .navbar .profile{
     width: 40px;
